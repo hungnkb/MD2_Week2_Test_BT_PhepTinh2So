@@ -1,7 +1,9 @@
 {
   "name": "testing",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
   "scripts": {
     "test": "jest --detectOpenHandles"
   },

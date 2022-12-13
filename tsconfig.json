@@ -8,7 +8,7 @@
         "resolveJsonModule": true,
         "strict": true,
         "types": [
-            "reflect-metadata",
+            // "reflect-metadata",
             "jest" 
         ],
         "esModuleInterop": true,
